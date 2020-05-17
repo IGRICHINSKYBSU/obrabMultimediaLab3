@@ -10,9 +10,9 @@
 имеют меньше, чем Красного и Синего). На графике потер Оранжевый и Синий ведут себя примерно одинаково, в то время, как у Красного видно 
 значительное уменьшение во время от нулевого до второго шага.
 ### Следовательно, я считаю, что Оранжевый, где lr= 0.0001- наиболее оптимальный.
-![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab3/raw/master/2a_1.png) 
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab3/raw/master/2a_1.jpg) 
 
-![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab3/raw/master/2a_2.png) 
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab3/raw/master/2a_2.jpg) 
 
 
 ### --3С--
