@@ -27,6 +27,8 @@
 наиболее оптимальный.
 ### Оранжевый lr=0.0001- наиболее оптимальный.
 
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab3/raw/master/3c_1.jpg) 
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab3/raw/master/3c_2.jpg) 
 
 ### --3D--
 Красный= 0.0001
@@ -39,4 +41,7 @@
 но все же Синий имеет немного наибольший разброс, нежели Красный график. Смотря на потери у Красного графика наблюдаюся наименьше выбросы + у Синего
 так же имеются потери значений на некоторых шагах.
 ### Красный lr=0.0001- наиболее оптимальный.
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab3/raw/master/3d_1.jpg) 
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab3/raw/master/3d_2.jpg) 
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab3/raw/master/3d_3.jpg) 
 
